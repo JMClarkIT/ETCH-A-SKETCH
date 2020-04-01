@@ -1,3 +1,5 @@
+/* Created by: Jamal Clark on 04/01/2020*/
+
 let n = 16;
 const cont = document.getElementById("container");
 let a = "black";
