@@ -1,0 +1,47 @@
+.box {
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+}
+
+#container {
+  margin: 5px 0px 5px 0px;
+  height: 680px;
+  width: 680px;
+  border: solid;
+  border-width: 5px;
+  border-color: green;
+  background-color: white;
+  display: grid;
+}
+
+body {
+  background: url(congruent_pentagon/congruent_pentagon.png);
+}
+
+h1 {
+  margin: 18px;
+  font-size: 70px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  color: #5374AC;
+}
+
+.button {
+  color: white;
+  font-size: 20px;
+  height: 40px;
+  border: none;
+  background-color: #53A0AC;
+  outline: none;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  width: 500px;
+  margin: auto;
+  top: 0px;
+  color: black;
+}
